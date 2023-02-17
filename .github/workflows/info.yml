@@ -27,4 +27,7 @@ jobs:
 
       # Generate a snake game from my commit-history
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v1.1.4
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-snake.svg
