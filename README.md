@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tomhea/tomhea/output/github-contribution-grid-snake.svg">
 </picture>
 
-</br></br>
+<p></p>
 
 <!--START_SECTION:waka-->
 
