@@ -14,3 +14,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 3
+          COMMIT_MESSAGE: "Update wakawime in readme"
