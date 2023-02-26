@@ -6,10 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         1 hr 19 mins    ██████████████░░░░░░░░░░░   55.92 %
-C++              24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-ObjectiveC       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-YAML             12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
