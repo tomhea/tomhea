@@ -6,10 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-FlipJump   2 hrs 21 mins   ███████████████████▒░░░░░   77.75 %
-Python     36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-XML        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
