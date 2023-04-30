@@ -6,9 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python     4 hrs 26 mins   ███████████████░░░░░░░░░░   60.27 %
-FlipJump   2 hrs 46 mins   █████████▒░░░░░░░░░░░░░░░   37.58 %
-Markdown   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Python           7 hrs 43 mins   █████████████▓░░░░░░░░░░░   54.18 %
+FlipJump         5 hrs 41 mins   ██████████░░░░░░░░░░░░░░░   39.84 %
+Markdown         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+ObjectiveC       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
