@@ -6,9 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-FlipJump   4 hrs 21 mins   ██████████████████▓░░░░░░   74.99 %
-Markdown   1 hr 9 mins     █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Text       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Markdown   1 hr 9 mins     ██████████████████████░░░   87.60 %
+FlipJump   9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
