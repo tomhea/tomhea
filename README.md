@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 1 min      ██████████████████████▓░░   90.98 %
-FlipJump   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
