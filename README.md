@@ -6,9 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           7 hrs 48 mins   █████████████▒░░░░░░░░░░░   53.10 %
-FlipJump         6 hrs 47 mins   ███████████▓░░░░░░░░░░░░░   46.22 %
-Brainfuck        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python           10 hrs 14 mins  ██████████████▓░░░░░░░░░░   59.03 %
+FlipJump         7 hrs           ██████████░░░░░░░░░░░░░░░   40.38 %
+Brainfuck        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
