@@ -6,9 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-FlipJump         3 hrs 26 mins   ████████████████░░░░░░░░░   63.97 %
-Python           1 hr 52 mins    ████████▓░░░░░░░░░░░░░░░░   34.70 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+FlipJump         6 hrs 17 mins   █████████████████▓░░░░░░░   71.16 %
+Python           2 hrs 21 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+CSV/TSV          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
