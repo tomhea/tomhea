@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-FlipJump       6 hrs 24 mins   ██████████████████▒░░░░░░   72.91 %
-Python         1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-Ezhil          24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
