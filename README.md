@@ -6,9 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           8 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   40.24 %
-Markdown         3 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-TOML             2 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Python           6 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   35.32 %
+Markdown         3 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+INI              2 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
 ```
 
 <!--END_SECTION:waka-->
