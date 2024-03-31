@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C            14 mins         ██████████░░░░░░░░░░░░░░░   40.25 %
+ObjectiveC   7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+TOML         6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
 ```
 
 <!--END_SECTION:waka-->
