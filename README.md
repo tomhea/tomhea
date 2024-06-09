@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python           27 mins         ████████████████████░░░░░   80.28 %
+GitIgnore file   5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+textmate         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
 ```
 
 <!--END_SECTION:waka-->
