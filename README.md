@@ -6,9 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-FlipJump         3 hrs 26 mins   ███████████▒░░░░░░░░░░░░░   45.40 %
-Python           2 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   31.47 %
-Bash             26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+FlipJump         3 hrs 26 mins   ██████████████░░░░░░░░░░░   55.85 %
+Python           2 hrs 23 mins   █████████▓░░░░░░░░░░░░░░░   38.78 %
+Shell Script     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
