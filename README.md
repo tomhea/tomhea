@@ -6,8 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     3 mins          ██████████████████████▓░░   90.50 %
-FlipJump   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+LinkerScript   13 mins         ████████████▒░░░░░░░░░░░░   49.76 %
+Text           9 mins          ████████░░░░░░░░░░░░░░░░░   32.65 %
+Python         4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
 ```
 
 <!--END_SECTION:waka-->
