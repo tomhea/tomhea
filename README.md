@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-LinkerScript   13 mins         ██████████████▒░░░░░░░░░░   57.69 %
-Text           9 mins          █████████▒░░░░░░░░░░░░░░░   37.85 %
-Python         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
