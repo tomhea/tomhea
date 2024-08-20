@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     7 mins          ███████████████░░░░░░░░░░   60.17 %
+TOML       4 mins          █████████░░░░░░░░░░░░░░░░   36.14 %
+FlipJump   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
