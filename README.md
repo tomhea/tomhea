@@ -6,9 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-FlipJump         1 hr 5 mins     ████████████▒░░░░░░░░░░░░   49.05 %
-Python           1 hr 3 mins     ████████████░░░░░░░░░░░░░   47.96 %
-Makefile         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+FlipJump         3 hrs 2 mins    ████████████████▒░░░░░░░░   65.21 %
+Python           1 hr 33 mins    ████████▒░░░░░░░░░░░░░░░░   33.15 %
+Makefile         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
