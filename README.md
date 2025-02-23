@@ -6,8 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         0 secs          ████████████████████████▓   98.49 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Markdown         4 mins          ███████████████▓░░░░░░░░░   62.22 %
+Python           1 min           ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
+Other            0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
 ```
 
 <!--END_SECTION:waka-->
