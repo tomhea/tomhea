@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   7 mins          ████████████▓░░░░░░░░░░░░   50.27 %
-Lua    6 mins          ████████████░░░░░░░░░░░░░   48.23 %
-INI    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
