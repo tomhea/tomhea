@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ObjectiveC       4 mins          ██████████████▓░░░░░░░░░░   58.76 %
-C                3 mins          ██████████░░░░░░░░░░░░░░░   40.29 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
